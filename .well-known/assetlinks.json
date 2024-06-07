@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "br.com.visaogrupo.tudofarmarep",
+               "sha256_cert_fingerprints": ["FE:A6:C0:BE:1E:66:96:09:87:F4:52:71:60:62:D4:E8:F2:D8:87:25:8A:81:44:9E:4D:5B:B3:E3:6B:15:A1:28"] }
+}]
